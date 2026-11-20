@@ -1,5 +1,7 @@
 # Workpath: a Workday-style leave & claims portal (Next.js + Supabase)
 
+**Live:** https://workday-clone-zeta.vercel.app · deploys automatically from `main` via the Vercel ↔ GitHub link.
+
 A Workday-style HR portal built for the **Leave & Claims workflow** from AIA Activities 1.1 and 1.2:
 
 > Employees apply online. The form checks their balance, public holidays and team clashes, then routes the request to the right supervisor or Department Head, with reminders after 1 working day and escalation after 2. Approval is one click. Approved leave posts straight to the **Master Leave Record**, and approved claims go to **Finance's payment queue**. Nothing gets re-keyed, every step is time-stamped, and HR gets a live view.
